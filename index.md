@@ -18,3 +18,7 @@ Coming soon.
 | 04/20/2023 |        Foundations: Fine-tuning and reinforcement learning from human feedback       |                 Ouyang et al. (2022)                 | Sebastian |
 | 04/27/2023 | Foundations: What does it mean to 'understand'? Methods for assessing understanding. | Bender and Koller (2020), Piantadosi and Hill (2022) | Sebastian |
 | 05/04/2023 |                      Methods: Behavioral experiments and probing                     |      Linzen et al. (2016), Tenney et al. (2019)      |           |
+| 05/11/2023 |                     Negation                     |      Ettinger (2020), Shivagunde et al. (2023)      |           |
+| 05/18/2023 |                     Compositionality                     |      Kim and Linzen (2020), Qiu etl al. (2022)     |           |
+
+
