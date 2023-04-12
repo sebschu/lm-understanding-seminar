@@ -4,6 +4,8 @@
 
 In this seminar, we will focus on the question to what extent large language models understand language. We'll cover different philosophical schools of what it means to understand language, and then focus on a series of recent empirical papers that aim to evaluate different aspects of language understanding in models.
 
+**Instructor**: [Sebastian Schuster](https://sebschu.com)
+
 **Time**: Thursdays, 2:15-3:45pm
 
 **Room**: C7.3 1.12
@@ -56,4 +58,10 @@ Questions about the readings are graded on a 3-point scale (0: no question submi
 
 More information about the presentation and final paper rubrics will be announced soon.
 
+### Office hours
 
+Please contact Sebastian at [seschust@lst.uni-saarland.de](mailto:seschust@lst.uni-saarland.de) to schedule a meeting.
+
+### Accommodations
+
+If you need any accommodations due to a disability or chronic illness, please either contact Sebastian at [seschust@lst.uni-saarland.de](mailto:seschust@lst.uni-saarland.de) or the [Equal Opportunities and Diversity Management Unit](https://www.uni-saarland.de/en/verwaltung/chancengleichheit/ksb) of the university.
