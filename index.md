@@ -19,11 +19,11 @@ Exact readings are still subject to change!
 | 04/27/2023 | Foundations: What does it mean to 'understand'? Methods for assessing understanding. | Bender and Koller (2020), Piantadosi and Hill (2022) | Sebastian |
 | 05/04/2023 |                      Methods: Behavioral experiments and probing                     |      Linzen et al. (2016), Tenney et al. (2019)      |           |
 | 05/11/2023 |                     Negation                     |      Ettinger (2020), Shivagunde et al. (2023)      |           |
-| 06/16/2023 (Special day/time!) |                     Compositionality                     |      Kim and Linzen (2020), Qiu et al. (2022)     |           |
+| 06/16/2023 8:15am-9:45am (Special day/time!) |                     Compositionality                     |      Kim and Linzen (2020), Qiu et al. (2022)     |           |
 | 05/18/2023 |                        _no class_ (public holiday)                  |         |           |
 | 05/25/2023 |                      Entity tracking / world models I                       |      Li et al. (2021), Kim and Schuster (to appear)    |           |
 | 06/01/2023 |                        Entity tracking / world models II                    |   Toshniwal et al. (2021), Li et al. (2023)      |           |
-| 06/06/2023 (Special day/time!) |  Discourse understading and connectives                                   |   Pandia and Ettinger (2021), Pandia et al. (2021)       |           |
+| 06/06/2023  8:15am-9:45am  (Special day/time!) |  Discourse understading and connectives                                   |   Pandia and Ettinger (2021), Pandia et al. (2021)       |           |
 | 06/08/2023 |                      _no class_ (public holiday)                    |        |           |
 | 06/15/2023 |                        Pragmatic inferences                   |  Hu et al. (2022), Ruis et al. (2022)        |           |
 | 06/22/2023 |                       Metaphors / Figurative meaning                       | TBD     |           |
