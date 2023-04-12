@@ -29,9 +29,31 @@ Exact readings are still subject to change!
 | 06/22/2023 |                       Metaphors / Figurative meaning                       | TBD     |           |
 | 06/29/2023 |                        Grounding I             |   TBD     |           |
 | 07/06/2023 |                        Grounding II            |  TBD   |           |
-| 07/11/2023 |                       _no class_           |     |           |
-| 07/18/2023 |                       _no class_           |     |           |
+| 07/13/2023 |                       _no class_           |     |           |
+| 07/20/2023 |                       _no class_           |     |           |
 
 
+### Course format and requirements
+
+This course will be run as a seminar and except for the first three units, where I will provide some background on language models and the philopsophy of understanding, two students will present in each unit. Every student will present exactly once.
+
+Starting with the fourth unit, all students are expected to read both readings every week and have to submit one question about each reading by Wednesday evening (or Monday evening for the two sessions that will be held Tuesday morning).
+
+### Grading
+
+For students taking the seminar for 4 credits:
+
+* Presentation: 60%
+* Questions about readings: 40%
+
+For students taking the seminar for 7 credits:
+
+* Presentation: 40%
+* Questions about readings: 20%
+* Final paper: 40% (more on that soon)
+
+Questions about the readings are graded on a 3-point scale (0: no question submitted, 1: superficial question, 2: insightful question). I will drop the 3 lowest scores (out of the 19 questions that you will have to submit) when computing this portion of the grade.
+
+More information about the presentation and final paper rubrics will be announced soon.
 
 
