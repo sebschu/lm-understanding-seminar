@@ -65,3 +65,7 @@ Please contact Sebastian at [seschust@lst.uni-saarland.de](mailto:seschust@lst.u
 ### Accommodations
 
 If you need any accommodations due to a disability or chronic illness, please either contact Sebastian at [seschust@lst.uni-saarland.de](mailto:seschust@lst.uni-saarland.de) or the [Equal Opportunities and Diversity Management Unit](https://www.uni-saarland.de/en/verwaltung/chancengleichheit/ksb) of the university.
+
+### All students are welcome
+
+I am committed to doing what I can to work for equity and to create an inclusive learning environment that actively values the diversity of backgrounds, identities, and experiences of everyone in this seminar. I also know that I will sometimes make missteps. If you notice some way that I could do better, I hope that you will let me know about it.
