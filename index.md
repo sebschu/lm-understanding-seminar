@@ -16,7 +16,6 @@ Exact readings are still subject to change!
 
 |    Date    |                                         Topic                                        |                        Papers                        | Slides | Presenter |
 |:----------:|:------------------------------------------------------------------------------------:|:----------------------------------------------------:|:------:|:---------:|
-
 | 04/13/2023 |                          Foundations: Large language models                          |       [Devlin et al. (2019)](https://aclanthology.org/N19-1423/), [Brown et al. (2020)](https://proceedings.neurips.cc/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf)      | [Slides](slides/1_LLMs.pdf) | Sebastian |
 | 04/20/2023 |        Foundations: Fine-tuning and reinforcement learning from human feedback       |                 [Ouyang et al. (2022)](https://arxiv.org/abs/2203.02155)                 | | Sebastian |
 | 04/27/2023 | Foundations: What does it mean to 'understand'? and methods for assessing understanding. | [Bender and Koller (2020)](https://aclanthology.org/2020.acl-main.463/), [Piantadosi and Hill (2022)](https://arxiv.org/abs/2208.02957) | | Sebastian |
