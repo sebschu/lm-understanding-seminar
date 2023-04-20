@@ -16,25 +16,25 @@ In this seminar, we will focus on the question to what extent large language mod
 
 Exact readings are still subject to change!
 
-|    Date    |                                         Topic                                        |                        Papers                        | Slides | Additional Readings | Presenter |
+|    Date    |                                         Topic                                        |                        Papers                        | Slides | Additional Materials | Presenter |
 |:----------:|:------------------------------------------------------------------------------------:|:----------------------------------------------------:|:------:|:-------------------:|:---------:|
-| 04/13/2023 |                          Foundations: Large language models                          |       [Devlin et al. (2019)](https://aclanthology.org/N19-1423/), [Brown et al. (2020)](https://proceedings.neurips.cc/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf)      | [Slides](slides/1_LLMs.pdf) | Sebastian |
-| 04/20/2023 |        Foundations: Fine-tuning and reinforcement learning from human feedback       |       [Ouyang et al. (2022)](https://arxiv.org/abs/2203.02155)                 | [Slides](slides/2_FineTuning_etc.pdf) | Sebastian |
+| 04/13/2023 |                          Foundations: Large language models                          |       [Devlin et al. (2019)](https://aclanthology.org/N19-1423/), [Brown et al. (2020)](https://proceedings.neurips.cc/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf)      | [Slides](slides/1_LLMs.pdf) | |  Sebastian |
+| 04/20/2023 |        Foundations: Fine-tuning and reinforcement learning from human feedback       |      [Ouyang et al. (2022)](https://arxiv.org/abs/2203.02155)                 | [Slides](slides/2_FineTuning_etc.pdf) | | Sebastian |
 | 04/27/2023 | Foundations: What does it mean to 'understand'? and methods for assessing understanding. | [Bender and Koller (2020)](https://aclanthology.org/2020.acl-main.463/), [Piantadosi and Hill (2022)](https://arxiv.org/abs/2208.02957) | | Sebastian |
-| 05/04/2023 |                      Methods: Behavioral experiments and probing                     |      [Linzen et al. (2016)](https://aclanthology.org/Q16-1037/), [Tenney et al. (2019)](https://aclanthology.org/S19-1026/)      | |           |
-| 05/11/2023 |                     Negation                     |      [Ettinger (2020)](https://aclanthology.org/2020.tacl-1.3/), [Shivagunde et al. (2023)](https://arxiv.org/abs/2303.16445) ?      | |           |
-| 05/16/2023 8:15am-9:45am (Special day/time!) |                     Compositionality                     |      [Kim and Linzen (2020)](https://aclanthology.org/2020.emnlp-main.731/), [Qiu et al. (2022)](https://aclanthology.org/2022.emnlp-main.624/)     | |           |
-| 05/18/2023 |                        _no class_ (public holiday)                  |         | |           |
-| 05/25/2023 |                      Entity tracking / world models I                       |      Li et al. (2021), Kim and Schuster (to appear)    | |           |
-| 06/01/2023 |                        Entity tracking / world models II                    |   Toshniwal et al. (2021), Li et al. (2023)      | |           |
+| 05/04/2023 |                      Methods: Behavioral experiments and probing                     |      [Linzen et al. (2016)](https://aclanthology.org/Q16-1037/), [Tenney et al. (2019)](https://aclanthology.org/S19-1026/)      | | |          |
+| 05/11/2023 |                     Negation                     |      [Ettinger (2020)](https://aclanthology.org/2020.tacl-1.3/), [Shivagunde et al. (2023)](https://arxiv.org/abs/2303.16445) ?      | | |           |
+| 05/16/2023 8:15am-9:45am (Special day/time!) |                     Compositionality                     |      [Kim and Linzen (2020)](https://aclanthology.org/2020.emnlp-main.731/), [Qiu et al. (2022)](https://aclanthology.org/2022.emnlp-main.624/)     | | |         |
+| 05/18/2023 |                        _no class_ (public holiday)                  |         | | |           |
+| 05/25/2023 |                      Entity tracking / world models I                       |      Li et al. (2021), Kim and Schuster (to appear)    | | |          |
+| 06/01/2023 |                        Entity tracking / world models II                    |   Toshniwal et al. (2021), Li et al. (2023)      | | |           |
 | 06/06/2023  8:15am-9:45am  (Special day/time!) |  Discourse understading and connectives                                   |   Pandia and Ettinger (2021), Pandia et al. (2021)       | |           |
-| 06/08/2023 |                      _no class_ (public holiday)                    |        | |           |
-| 06/15/2023 |                        Pragmatic inferences                   |  Hu et al. (2022), Ruis et al. (2022)        | |           |
-| 06/22/2023 |                       Metaphors / Figurative meaning                       | TBD     | |           |
-| 06/29/2023 |                        Grounding I             |   TBD     |           | |
-| 07/06/2023 |                        Grounding II            |  TBD   | |           |
-| 07/13/2023 |                       _no class_           |     | |           |
-| 07/20/2023 |                       _no class_           |     | |           |
+| 06/08/2023 |                      _no class_ (public holiday)                    |       | | |          |
+| 06/15/2023 |                        Pragmatic inferences                   |  Hu et al. (2022), Ruis et al. (2022)        | | |          |
+| 06/22/2023 |                       Metaphors / Figurative meaning                       | TBD   | | |          |
+| 06/29/2023 |                        Grounding I             |   TBD     |           | | |
+| 07/06/2023 |                        Grounding II            |  TBD   | | |           |
+| 07/13/2023 |                       _no class_           |    | | |         |
+| 07/20/2023 |                       _no class_           |     | | |           |
 
 
 ### Course format and requirements
