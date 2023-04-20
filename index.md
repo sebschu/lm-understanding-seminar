@@ -4,6 +4,8 @@
 
 In this seminar, we will focus on the question to what extent large language models understand language. We'll cover different philosophical schools of what it means to understand language, and then focus on a series of recent empirical papers that aim to evaluate different aspects of language understanding in models.
 
+**Course Management System**: [https://cms.sic.saarland/wdlmu23/](https://cms.sic.saarland/wdlmu23/)
+
 **Instructor**: [Sebastian Schuster](https://sebschu.com)
 
 **Time**: Thursdays, 2:15-3:45pm
@@ -17,7 +19,7 @@ Exact readings are still subject to change!
 |    Date    |                                         Topic                                        |                        Papers                        | Slides | Presenter |
 |:----------:|:------------------------------------------------------------------------------------:|:----------------------------------------------------:|:------:|:---------:|
 | 04/13/2023 |                          Foundations: Large language models                          |       [Devlin et al. (2019)](https://aclanthology.org/N19-1423/), [Brown et al. (2020)](https://proceedings.neurips.cc/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf)      | [Slides](slides/1_LLMs.pdf) | Sebastian |
-| 04/20/2023 |        Foundations: Fine-tuning and reinforcement learning from human feedback       |                 [Ouyang et al. (2022)](https://arxiv.org/abs/2203.02155)                 | | Sebastian |
+| 04/20/2023 |        Foundations: Fine-tuning and reinforcement learning from human feedback       | [Slides](slides/2_FineTuning_etc.pdf)                [Ouyang et al. (2022)](https://arxiv.org/abs/2203.02155)                 | | Sebastian |
 | 04/27/2023 | Foundations: What does it mean to 'understand'? and methods for assessing understanding. | [Bender and Koller (2020)](https://aclanthology.org/2020.acl-main.463/), [Piantadosi and Hill (2022)](https://arxiv.org/abs/2208.02957) | | Sebastian |
 | 05/04/2023 |                      Methods: Behavioral experiments and probing                     |      [Linzen et al. (2016)](https://aclanthology.org/Q16-1037/), [Tenney et al. (2019)](https://aclanthology.org/S19-1026/)      | |           |
 | 05/11/2023 |                     Negation                     |      [Ettinger (2020)](https://aclanthology.org/2020.tacl-1.3/), [Shivagunde et al. (2023)](https://arxiv.org/abs/2303.16445) ?      | |           |
