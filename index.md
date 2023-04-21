@@ -30,9 +30,9 @@ Exact readings are still subject to change!
 | 06/06/2023  8:15am-9:45am  (Special day/time!) |  Discourse understading and connectives                                   |   Pandia and Ettinger (2021), Pandia et al. (2021)       | |           |
 | 06/08/2023 |                      _no class_ (public holiday)                    |       | | |          |
 | 06/15/2023 |                        Pragmatic inferences                   |  Hu et al. (2022), Ruis et al. (2022)        | | |          |
-| 06/22/2023 |                       Metaphors / Figurative meaning                       | TBD   | | |          |
-| 06/29/2023 |                        Grounding I             |   TBD     |           | | |
-| 07/06/2023 |                        Grounding II            |  TBD   | | |           |
+| 06/22/2023 |                       Metaphors / Figurative meaning                       | [Comșa et al. (2022)](https://aclanthology.org/2022.aacl-short.46/), [Chakrabarty et al. (2022)](https://direct.mit.edu/tacl/article/doi/10.1162/tacl_a_00478/111221/It-s-not-Rocket-Science-Interpreting-Figurative)   | | |          |
+| 06/29/2023 |                        Grounding / Reporting bias            |   [Paik et al. (2021)](https://aclanthology.org/2021.emnlp-main.63/), [Liu et al., (2022)](https://aclanthology.org/2022.aacl-short.27/)    |           | | |
+| 07/06/2023 |                       Multimodal models            |  [Thrush et al. (2022)](https://openaccess.thecvf.com/content/CVPR2022/papers/Thrush_Winoground_Probing_Vision_and_Language_Models_for_Visio-Linguistic_Compositionality_CVPR_2022_paper.pdf), [Yuksekgonul et al. (2023)](https://openreview.net/pdf?id=KRLUvxh8uaX)   | | |           |
 | 07/13/2023 |                       _no class_           |    | | |         |
 | 07/20/2023 |                       _no class_           |     | | |           |
 
