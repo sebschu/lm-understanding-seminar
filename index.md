@@ -14,8 +14,6 @@ In this seminar, we will focus on the question to what extent large language mod
 
 ### Syllabus
 
-Exact readings are still subject to change!
-
 |    Date    |                                         Topic                                        |                        Papers                        | Slides | Additional Materials | Presenter |
 |:----------:|:------------------------------------------------------------------------------------:|:----------------------------------------------------:|:------:|:-------------------:|:---------:|
 | 04/13/2023 |                          Foundations: Large language models                          |       [Devlin et al. (2019)](https://aclanthology.org/N19-1423/), [Brown et al. (2020)](https://proceedings.neurips.cc/paper/2020/file/1457c0d6bfcb4967418bfb8ac142f64a-Paper.pdf)      | [Slides](slides/1_LLMs.pdf) | [Alammar: Illustrated GPT-2](https://jalammar.github.io/illustrated-gpt2/), [Rush: The annotated transformer](https://nlp.seas.harvard.edu/2018/04/03/attention.html), [Stanford CS224N lectures](https://www.youtube.com/playlist?list=PLoROMvodv4rOSH4v6133s9LFPRHjEmbmJ), [S&LP, Ch. 10](https://web.stanford.edu/~jurafsky/slp3/10.pdf), [HuggingFace NLP Course](https://huggingface.co/learn/nlp-course/chapter1/1), [Kulshrestha: Transformers](https://towardsdatascience.com/transformers-89034557de14), [Vaswani et al. (2017)](https://proceedings.neurips.cc/paper_files/paper/2017/file/3f5ee243547dee91fbd053c1c4a845aa-Paper.pdf) |  Sebastian |
@@ -54,11 +52,9 @@ For students taking the seminar for 7 credits:
 
 * Presentation: 40%
 * Questions about readings: 20%
-* Final paper: 40% (more on that soon)
+* [Final paper](./seminar-paper): 40%
 
 Questions about the readings are graded on a 3-point scale (0: no question submitted, 1: superficial question, 2: insightful question). I will drop the 3 lowest scores (out of the 19 questions that you will have to submit) when computing this portion of the grade.
-
-More information about the presentation and final paper rubrics will be announced soon.
 
 ### Office hours
 
