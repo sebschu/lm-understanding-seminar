@@ -26,4 +26,4 @@ Both the proposal and the final paper should be uploaded on the CMS.
 
 Proposal due date: July 2, 2023
 
-Final paper due date: September 3, 2023
+Final paper due date: October 16, 2023
